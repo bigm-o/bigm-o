@@ -3,6 +3,18 @@
 <h1>👋 Hello, I'm Morayo Fanu</h1>
 <h3>A passionate Artificial Intelligence/Machine Learning Engineer and Web developer from Nigeria</h3>
 
+###
+
+<div align="center" style="width: 100%; display: flex; justify-content: space-between;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+</div>
+
+###
+
 <br>
 <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/fbac46cd92d4f8b1b6af7765bbcc15b9c6c26a69dc31b7383294ca6a9b0029ca/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f6565663736623134333538343330372e363237643036393136636531302e676966">
 
@@ -43,8 +55,4 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigm-o&show_icons=true&locale=en&layout=compact" alt="bigm-o" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigm-o&show_icons=true&locale=en" alt="bigm-o" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigm-o&" alt="bigm-o" /></p>
