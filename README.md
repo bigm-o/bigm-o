@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/fbac46cd92d4f8b1b6af7765bbcc15b9c6c26a69dc31b7383294ca6a9b0029ca/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f6565663736623134333538343330372e363237643036393136636531302e676966">
 
 
-- 👨‍💻 All of my projects are available at [morayofanu.com](morayofanu.com)
+- 👨‍💻 All of my projects are available at https://morayofanu.com/
 
 - 💬 Ask me about **Python, ML models, Databases, PHP, Content Management Systems, dynamic websites, etc.**
 
