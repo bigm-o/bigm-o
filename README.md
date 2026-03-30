@@ -56,10 +56,9 @@
 <h3 align="left">Skill Statistics:</h3>
 <div align="center" style="width: 100%; display: flex; justify-content: space-between;">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bigm-o&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigm-o&layout=compact&theme=radical" />
-</p>
+  [![bigm-o's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigm-o&show_icons=true&theme=radical)](https://github.com/bigm-o)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigm-o&layout=compact&theme=radical)](https://github.com/bigm-o)
+  
 </div>
 
 ###
