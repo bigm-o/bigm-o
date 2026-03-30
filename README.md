@@ -2,7 +2,7 @@
 <img alt="Coding" src=".github/LinkedIn Banner.png">
 
 <h1>👋 Hello, I'm Morayo Fanu</h1>
-<h3>A passionate Artificial Intelligence/Machine Learning Engineer and Web developer from Nigeria</h3>
+<h3>A passionate Artificial Intelligence/Machine Learning Engineer and Web developer</h3>
 
 <br>
 <img align="right" alt="Coding" width="500" src="https://i.redd.it/n8agw6z2smyb1.gif">
