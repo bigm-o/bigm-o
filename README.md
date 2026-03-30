@@ -56,10 +56,10 @@
 <h3 align="left">Skill Statistics:</h3>
 <div align="center" style="width: 100%; display: flex; justify-content: space-between;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigm-o&layout=compact&theme=vision-pro)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bigm-o&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bigm-o&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigm-o&layout=compact&theme=radical" />
+</p>
 </div>
 
 ###
