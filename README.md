@@ -56,9 +56,9 @@
 <h3 align="left">Skill Statistics:</h3>
 <div align="center" style="width: 100%; display: flex; justify-content: space-between;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=bigm-o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigm-o&layout=compact&theme=vision-pro)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bigm-o&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bigm-o&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
